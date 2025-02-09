@@ -1,0 +1,122 @@
+{
+    "image0": {
+        "date": "2000",
+        "deforested_surface": "3637.53",
+        "original_path": "/framez00.png",
+        "detection_path": "/hsv/00.png"
+    },
+    "image1": {
+        "date": "2001",
+        "deforested_surface": "2258.10",
+        "original_path": "/framez01.png",
+        "detection_path": "/hsv/01.png"
+    },
+    "image2": {
+        "date": "2002",
+        "deforested_surface": "3937.44",
+        "original_path": "/framez02.png",
+        "detection_path": "/hsv/02.png"
+    },
+    "image3": {
+        "date": "2003",
+        "deforested_surface": "4416.36",
+        "original_path": "/framez03.png",
+        "detection_path": "/hsv/03.png"
+    },
+    "image4": {
+        "date": "2004",
+        "deforested_surface": "4326.66",
+        "original_path": "/framez04.png",
+        "detection_path": "/hsv/04.png"
+    },
+    "image5": {
+        "date": "2005",
+        "deforested_surface": "5253.30",
+        "original_path": "/framez05.png",
+        "detection_path": "/hsv/05.png"
+    },
+    "image6": {
+        "date": "2006",
+        "deforested_surface": "6462.69",
+        "original_path": "/framez06.png",
+        "detection_path": "/hsv/06.png"
+    },
+    "image7": {
+        "date": "2007",
+        "deforested_surface": "9736.35",
+        "original_path": "/framez07.png",
+        "detection_path": "/hsv/07.png"
+    },
+    "image8": {
+        "date": "2008",
+        "deforested_surface": "12067.38",
+        "original_path": "/framez08.png",
+        "detection_path": "/hsv/08.png"
+    },
+    "image9": {
+        "date": "2009",
+        "deforested_surface": "12372.36",
+        "original_path": "/framez09.png",
+        "detection_path": "/hsv/09.png"
+    },
+    "image10": {
+        "date": "2010",
+        "deforested_surface": "10083.06",
+        "original_path": "/framez10.png",
+        "detection_path": "/hsv/10.png"
+    },
+    "image11": {
+        "date": "2011",
+        "deforested_surface": "15083.25",
+        "original_path": "/framez11.png",
+        "detection_path": "/hsv/11.png"
+    },
+    "image12": {
+        "date": "2012",
+        "deforested_surface": "13307.19",
+        "original_path": "/framez12.png",
+        "detection_path": "/hsv/12.png"
+    },
+    "image13": {
+        "date": "2013",
+        "deforested_surface": "13577.85",
+        "original_path": "/framez13.png",
+        "detection_path": "/hsv/13.png"
+    },
+    "image14": {
+        "date": "2014",
+        "deforested_surface": "17021.55",
+        "original_path": "/framez14.png",
+        "detection_path": "/hsv/14.png"
+    },
+    "image15": {
+        "date": "2015",
+        "deforested_surface": "7608.51",
+        "original_path": "/framez15.png",
+        "detection_path": "/hsv/15.png"
+    },
+    "image16": {
+        "date": "2016",
+        "deforested_surface": "16879.59",
+        "original_path": "/framez16.png",
+        "detection_path": "/hsv/16.png"
+    },
+    "image17": {
+        "date": "2017",
+        "deforested_surface": "18205.20",
+        "original_path": "/framez17.png",
+        "detection_path": "/hsv/17.png"
+    },
+    "image18": {
+        "date": "2018",
+        "deforested_surface": "17724.33",
+        "original_path": "/framez18.png",
+        "detection_path": "/hsv/18.png"
+    },
+    "image19": {
+        "date": "2019",
+        "deforested_surface": "15211.56",
+        "original_path": "/framez19.png",
+        "detection_path": "/hsv/19.png"
+    }
+}
